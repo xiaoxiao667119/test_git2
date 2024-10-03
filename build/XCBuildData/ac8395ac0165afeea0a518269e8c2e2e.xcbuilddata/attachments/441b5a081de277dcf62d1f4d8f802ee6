@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2-master.dia",
+    "emit-module-dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2-master.swiftdeps"
+  },
+  "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/test_git2/ContentView.swift" : {
+    "const-values" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/test_git2/test_git2App.swift" : {
+    "const-values" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App.swiftconstvalues",
+    "dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App.d",
+    "diagnostics" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App.dia",
+    "index-unit-output-path" : "/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App.o",
+    "llvm-bc" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App.bc",
+    "object" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App.o",
+    "swift-dependencies" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App.swiftdeps",
+    "swiftmodule" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/test_git2/build/test_git2.build/Debug-iphonesimulator/test_git2.build/Objects-normal/arm64/test_git2App~partial.swiftmodule"
+  }
+}

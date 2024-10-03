@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'test_git2' in project 'test_git2' (no dependencies)
